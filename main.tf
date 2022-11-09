@@ -1,6 +1,6 @@
 # main.tf
 locals {
-  project_id = "iam-gcp-project-366613"
+  project_id = "terraform-gcp-367908"
 }
 
 provider "google" {
